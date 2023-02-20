@@ -1,0 +1,3 @@
+﻿using Example;
+
+Foo.Bar();
